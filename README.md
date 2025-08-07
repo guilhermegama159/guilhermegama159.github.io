@@ -17,7 +17,7 @@ _EM ANDAMENTO_
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermegama159&show_icons=true&theme=radical" alt="Stats do GitHub" width=300px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermegama159&show_icons=true&theme=radical" alt="Stats do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegama159&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
