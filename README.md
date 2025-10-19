@@ -1,3 +1,7 @@
+<style>
+  background-color: black;
+</style>
+
 <h1 align="center">👋 Olá, eu sou Guilherme Gama!</h1>
 <p align="center">Estudante e entusiasta de Tecnologia 🚀</p>
 
@@ -5,7 +9,7 @@
 
 ## 👀 Sobre mim
 
-Sou facinado por desenvolvimento e inovação. Atualmente, estou focado em aprender e criar projetos com **HTML**, **CSS**, **JavaScript**, **Python** e **Java** sempre buscando entregar o melhor!
+Sou facinado por desenvolvimento e inovação. Atualmente, estou focado em aprender e criar projetos sempre buscando entregar o melhor!
 ---
 
 ## 📌 Meus melhores projetos
